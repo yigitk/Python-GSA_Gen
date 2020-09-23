@@ -1,5 +1,7 @@
 # Python SSA Profiler
 
+Contributors: Nicklaus Roach and Jiacheng Cheng (main contributor).
+
 ## Usage
 
 Download Antlr jar file at http://www.antlr.org/download.html
