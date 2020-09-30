@@ -1,6 +1,5 @@
 # Python GSA_Gen
 
-Contributors: Nicklaus Roach and Jiacheng Cheng (main contributor).
 
 ## Usage
 
