@@ -1,5 +1,5 @@
 # Python GSA_Gen
-
+A project for generating GSA (Gated-Single Assignment Form - Special case of Static Single Assignment Form) for Python programs. Additionally this version generates a causal map to be used for my Causal Inference research.
 
 ## Usage
 
